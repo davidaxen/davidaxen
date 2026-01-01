@@ -35,8 +35,8 @@ I build Android and iOS applications — professionally and for fun.
 
 **Backend / Services**
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
-- ![REST APIs](https://img.shields.io/badge/REST%20APIs-5E5E5E?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-5E5E5E?style=for-the-badge)
 
 ## 📌 Currently
 - Improving my mobile skills while building apps
