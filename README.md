@@ -23,13 +23,19 @@ I build Android and iOS applications — professionally and for fun.
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 
 **Architecture & Patterns**
-- MVVM · Clean Architecture · Modularization · BLoC
-- Dependency Injection (Koin, Hilt, GetIt) 
+- ![MVVM](https://img.shields.io/badge/MVVM-4A4A4A?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-5E5E5E?style=for-the-badge)
+![Modularization](https://img.shields.io/badge/Modularization-6A6A6A?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-1389FD?style=for-the-badge)
+- ![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-444444?style=for-the-badge)
+![Koin](https://img.shields.io/badge/Koin-FF6F00?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-34A853?style=for-the-badge)
+![GetIt](https://img.shields.io/badge/GetIt-5E5E5E?style=for-the-badge)
 
 **Backend / Services**
-- Firebase
-- Supabase
-- REST APIs
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+- ![REST APIs](https://img.shields.io/badge/REST%20APIs-5E5E5E?style=for-the-badge)
 
 ## 📌 Currently
 - Improving my mobile skills while building apps
