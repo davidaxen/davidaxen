@@ -38,6 +38,26 @@ I build Android and iOS applications professionally and for fun.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-5E5E5E?style=for-the-badge)
 
+## 👨‍💻 Personal projects
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/davidaxen/films-finder-app" target="_blank">
+        <img src="https://github.com/davidaxen/films-finder-app/blob/main/app/src/main/res/drawable/film_hunter_logo.png" alt="FilmHunterLogo" width="100%"/><br>
+        <strong>Film Hunter</strong><br>
+        Android App with Jetpack Compose
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/davidaxen/dance-academy-management-app" target="_blank">
+        <img src="https://github.com/davidaxen/dance-academy-management-app/blob/main/iosApp/iosApp/Assets.xcassets/splash_logo.imageset/logo_1.png" alt="MyDanceLogo" width="100%"/><br>
+        <strong>My Dance</strong><br>
+        Android and iOS App with Kotlin Multiplatform and Compose Multiplatform
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 📌 Currently
 - Improving my mobile skills while building apps
 - Learning best practices for scalable and maintainable mobile apps
