@@ -1,7 +1,7 @@
 # Hi 👋 I'm David Bracamonte
 
 Software Engineer focused on Mobile Development.  
-I build Android and iOS applications — professionally and for fun.
+I build Android and iOS applications professionally and for fun.
 
 ## 🛠 Tech Stack
 
